@@ -23,13 +23,6 @@ This project is an interactive Power BI dashboard built using real-world Zomato 
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Zomato Power BI Dashboard](images/zomato_dashboard.png)
-
----
-
-
 ---
 
 ## 🔗 How to View the Report
@@ -48,4 +41,5 @@ Puneet Chauhan
 Data Analyst | Excel | Power BI | SQL
 
 ---
+
 
